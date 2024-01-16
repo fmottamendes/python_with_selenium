@@ -1,1 +1,1 @@
-Web Scraper em python
+Web Scraper em Python usando Selenium Webdriver
